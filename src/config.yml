@@ -1,0 +1,46 @@
+SQLhost: 'localhost'
+SQLport: '3306'
+SQLdata: 'minecraft'
+user: 'root'
+password: 'root'
+Tablename: 'FFAKillStats'
+
+LobbyLocation_world: 'lobby'
+LobbyLocation_x: 0
+LobbyLocation_y: 0
+LobbyLocation_z: 0
+LobbyLocation_yam: 0
+LobbyLocation_dx: 0
+
+GappleLocation_world: 'gapple'
+GappleLocation_x: 0
+GappleLocation_y: 0
+GappleLocation_z: 0
+GappleLocation_yam: 0
+GappleLocation_dx: 0
+
+PotionLocation_world: 'potion'
+PotionLocation_x: 0
+PotionLocation_y: 0
+PotionLocation_z: 0
+PotionLocation_yam: 0
+PotionLocation_dx: 0
+
+FullDiaLocaiton_world: 'fulldia'
+FullDiaLocaiton_x: 0
+FullDiaLocaiton_y: 0
+FullDiaLocaiton_z: 0
+FullDiaLocaiton_yam: 0
+FullDiaLocaiton_dx: 0
+
+ComboLocation_world: 'combo'
+ComboLocation_x: 0
+ComboLocation_y: 0
+ComboLocation_z: 0
+ComboLocation_yam: 0
+ComboLocation_dx: 0
+
+LobbyGameMode: 0
+RespawnGameMode: 0
+RespawnTime: 3
+    

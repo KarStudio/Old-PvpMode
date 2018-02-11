@@ -1,0 +1,177 @@
+ModeAmount: 1
+Mode1: 
+    Mode1Name: "Gapple"
+    Mode1GameMode: 2
+    Mode1Location: 
+        Mode1_X: -300
+        Mode1_Y: 69
+        Mode1_Z: 0
+        Mode1_dY: 0
+        Mode1_dX: 180
+    Mode1Kit: 
+        Mode1KitAmount: 8
+        Mode1Kit1: 
+            Mode1Kit1Location: 0
+            Mode1Kit1ID: 276
+            Mode1Kit1Data: 0
+            Mode1Kit1Amount: 1
+            Mode1Kit1Name: "Diamond_Sword"
+            Mode1Kit1Ench:
+                Mode1Kit1EnchAmount: 2
+                Mode1Kit1Ench1: 
+                    Mode1Kit1Ench1ID: 16
+                    Mode1Kit1Ench1Level: 4
+                Mode1Kit1Ench2: 
+                    Mode1Kit1Ench2ID: 34
+                    Mode1Kit1Ench2Level: 10
+            Mode1Kit1Lore: 
+                Mode1Kit1LoreAmount: 2
+                Mode1Kit1Lore1: "§4Fuck the player!"
+                Mode1Kit1Lore2: "§4\u6740\u6b7b\u5176\u4ed6\u73a9\u5bb6!"
+        Mode1Kit2: 
+            Mode1Kit2Location: 1
+            Mode1Kit2ID: 346
+            Mode1Kit2Data: 0
+            Mode1Kit2Amount: 1
+            Mode1Kit2Name: "\u9493\u9c7c\u7aff"
+            Mode1Kit2Ench:
+                Mode1Kit2EnchAmount: 1
+                Mode1Kit2Ench1: 
+                    Mode1Kit2Ench1ID: 34
+                    Mode1Kit2Ench1Level: 10
+            Mode1Kit2Lore: 
+                Mode1Kit1LoreAmount: 0
+        Mode1Kit3: 
+            Mode1Kit3Location: 2
+            Mode1Kit3ID: 322
+            Mode1Kit3Data: 0
+            Mode1Kit3Amount: 64
+            Mode1Kit3Name: "\u91d1\u5c41\u5c41"
+            Mode1Kit3Ench:
+                Mode1Kit3EnchAmount: 0
+            Mode1Kit3Lore: 
+                Mode1Kit3LoreAmount: 0
+        Mode1Kit4: 
+            Mode1Kit4Location: 3
+            Mode1Kit4ID: 322
+            Mode1Kit4Data: 0
+            Mode1Kit4Amount: 64
+            Mode1Kit4Name: "\u91d1\u5c41\u5c41"
+            Mode1Kit4Ench:
+                Mode1Kit4EnchAmount: 0
+            Mode1Kit4Lore: 
+                Mode1Kit4LoreAmount: 0
+        Mode1Kit5: 
+            Mode1Kit5Location: 36
+            Mode1Kit5ID: 310
+            Mode1Kit5Data: 0
+            Mode1Kit5Amount: 1
+            Mode1Kit5Name: "\u91d1\u5c41\u5c41"
+            Mode1Kit5Ench:
+                Mode1Kit5EnchAmount: 2
+                Mode1Kit5Ench1: 
+                    Mode1Kit5Ench1ID: 0
+                    Mode1Kit5Ench1Level: 1
+                Mode1Kit5Ench2: 
+                    Mode1Kit5Ench2ID: 34
+                    Mode1Kit5Ench2Level: 10
+            Mode1Kit5Lore: 
+                Mode1Kit5LoreAmount: 0
+        Mode1Kit6: 
+            Mode1Kit6Location: 37
+            Mode1Kit6ID: 311
+            Mode1Kit6Data: 0
+            Mode1Kit6Amount: 1
+            Mode1Kit6Name: "\u91d1\u5c41\u5c41"
+            Mode1Kit6Ench:
+                Mode1Kit6EnchAmount: 2
+                Mode1Kit6Ench1: 
+                    Mode1Kit6Ench1ID: 0
+                    Mode1Kit6Ench1Level: 2
+                Mode1Kit6Ench2: 
+                    Mode1Kit6Ench2ID: 34
+                    Mode1Kit6Ench2Level: 10
+            Mode1Kit6Lore: 
+                Mode1Kit6LoreAmount: 0
+        Mode1Kit7: 
+            Mode1Kit7Location: 38
+            Mode1Kit7ID: 312
+            Mode1Kit7Data: 0
+            Mode1Kit7Amount: 1
+            Mode1Kit7Name: "\u91d1\u5c41\u5c41"
+            Mode1Kit7Ench:
+                Mode1Kit7EnchAmount: 2
+                Mode1Kit7Ench1: 
+                    Mode1Kit7Ench1ID: 0
+                    Mode1Kit7Ench1Level: 1
+                Mode1Kit7Ench2: 
+                    Mode1Kit7Ench2ID: 34
+                    Mode1Kit7Ench2Level: 10
+            Mode1Kit7Lore: 
+                Mode1Kit7LoreAmount: 0
+        Mode1Kit8: 
+            Mode1Kit8Location: 39
+            Mode1Kit8ID: 313
+            Mode1Kit8Data: 0
+            Mode1Kit8Amount: 1
+            Mode1Kit8Name: "\u91d1\u5c41\u5c41"
+            Mode1Kit8Ench:
+                Mode1Kit8EnchAmount: 2
+                Mode1Kit8Ench1: 
+                    Mode1Kit8Ench1ID: 0
+                    Mode1Kit8Ench1Level: 2
+                Mode1Kit8Ench2: 
+                    Mode1Kit8Ench2ID: 34
+                    Mode1Kit8Ench2Level: 10
+            Mode1Kit8Lore: 
+                Mode1Kit8LoreAmount: 0
+    Mode1Effect: 
+        Mode1EffectAmount: 3
+        Mode1Effect1:
+            Mode1Effect1ID: 1
+            Mode1Effect1Level: 1
+            Mode1Effect1Times: 9999
+        Mode1Effect2:
+            Mode1Effect1ID: 9
+            Mode1Effect1Level: 20
+            Mode1Effect1Times: 3
+        Mode1Effect3:
+            Mode1Effect1ID: 23
+            Mode1Effect1Level: 1
+            Mode1Effect1Times: 3
+             
+#EnchID
+#Chest
+#0 Protection Effect:Reduces most damage
+#1 Fire Protection Effect:Reduces Fire Protection
+#2 Feather Falling Effect:Reduces fall damage
+#3 Blast Protection Effect:Reduces explosion damage
+#4 Projectile Protection Effect:Reduces projectile damage
+#5 Respiration Effect:Extends underwater breathing time
+#6 Aqua Affinity Effect:Increases underwater mining rate
+#7 Thorns Effect:Damages attackers
+#8 Depth Strider Effect:Increases underwater movement speed
+#9 Frost Walker Effect:Creates frosted ice blocks when walking over water
+#Sword
+#16 Sharpness Effect:Increases damage
+#17 Smite Effect:Increases damage to "undead" mobs (skeletons, zombies, withers, wither skeletons, and zombie pigmen)
+#18 Bane of Arthropods Effect:Increases damage to "arthropod" mobs (spiders, cave spiders, silverfish and endermites)
+#19 Knockback Effect:Increases knockback
+#20 Fire Aspect Effect:Sets the target on fire
+#21 Looting Effect:Mobs can drop more loot
+#Tools
+#32 Efficiency Effect:Increases mining speed
+#33 Silk Touch Effect:Mined blocks drop themselves instead of the usual items
+#34 Unbreaking Effect:Increases durability
+#35 Fortune Effect:Increases block drops
+#Bow
+#48 Power Effect:Increases damage
+#49 Punch Effect:Increases knockback
+#50 Flame Effect:Flaming arrows
+#51 Flaming arrows Effect:Shooting consumes no arrows
+#Fishing_rod
+#61 Luck of the Sea Effect:Increases luck while fishing
+#62 Lure Effect:Increases rate of fish biting your hook
+
+#EffectID:
+#1.Speed 2.Slowness 3.Haste 4.Mining Fatigue 5.Strength 6.Instant Health 7.Instant Damage 8.Jump Boost 9.Nausea 10.Regeneration 11.Resistance 12.Fire Resistance 13.Water Breathing 14.Invisibility 15.Blindness 16.Night Vision 17.Hunger 18.Weakness 19.Poison 20.Wither 21.Health Boost 22.Absorption 23.Saturation 24.Glowing 25.Levitation 26.Luck 27.BAD Luck

@@ -1,0 +1,33 @@
+name: PVPMode
+main: top.karpvp.normalpvp.pvpmode.Main3
+version: 0.1.1-alpha d07
+author: listenstation
+depend: [SQLibrary]
+commands:
+  cpstest: 
+    description: 测试cps
+  mode: 
+    description: 获取装备
+    permission: karpvp.normalpvp.mode
+    permission-message: 没有权限使用该命令
+  spawn: 
+    description: 传送到出生点
+    permission: karpvp.normalpvp.spawn
+    permission-message: 没有权限使用该命令
+  kit: 
+    description: 获取装备但不传送
+    permission: karpvp.normalpvp.kit
+    permission-message: 没有权限使用该命令
+#  setspawn: 
+#    description: 设置出生点
+#    permission: karpvp.normalpvp.setspawn
+#    permission-message: 没有权限使用该命令
+  ffam: 
+    description: 查看开发者信息
+    permission: karpvp.normalpvp.ffam
+    permission-message: 没有权限使用该命令
+  backlobby: 
+    description: 回主出生点
+  fd: 
+    description: 寻找玩家在哪个模式里
+    
